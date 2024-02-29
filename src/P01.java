@@ -4,7 +4,9 @@ public class P01 {
         System.out.println("Hello world");
         int a = 120;
         int b = 80;
-
+        int c ;
+        c=a+b;
+        System.out.println("c = " + c);
 
     }
 }
