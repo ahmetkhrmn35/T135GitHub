@@ -3,7 +3,7 @@ public class P04 {
 
         System.out.println("Ne yaparsan Yap En iyisini Yap");
 
-
+        System.out.println("Versiyon olsun diye ...");
 
     }
 }
